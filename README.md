@@ -1,14 +1,12 @@
-# Exercise-03d-Shaders
+# Project 03
 
 Exercise for MSCH-C220
 
-The final step adding "juicy" features to a simple brick-breaker game.
-
-
 ## Implementation
-
-Built using Unity 2022.3.45f
-
+  Changed shader colors
+  Added shader to all scenes
+  Made it to where you can actually go to the next level when beating the previous one
+  Changed sprites to be Halloween themed
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
@@ -18,10 +16,8 @@ Built using Unity 2022.3.45f
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
 
-
 ## Future Development
+None
 
-Power-ups, etc.
-
-## Created by 
+## Created by
 Benjamin Hornberger
